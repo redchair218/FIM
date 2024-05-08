@@ -1,0 +1,1154 @@
+[
+  {
+    "ahps_lid": "AXTV2",
+    "river": "Potomac River",
+    "city": "Alexandria",
+    "state": "VA"
+  },
+  {
+    "ahps_lid": "GTND2",
+    "river": "Potomac River",
+    "city": "Georgetown",
+    "state": "DC"
+  },
+  {
+    "ahps_lid": "WASD2",
+    "river": "Washington Channel",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "ahps_lid": "PTVN6",
+    "river": "Schoharie Creek",
+    "city": "Prattsville",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "SKLA2",
+    "river": "Kenai River",
+    "city": "Skilak Lake",
+    "state": "AK"
+  },
+  {
+    "ahps_lid": "SXRA2",
+    "river": "Kenai River",
+    "city": "Soldotna",
+    "state": "AK"
+  },
+  {
+    "ahps_lid": "ATIT2",
+    "river": "Onion Creek",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "BRTT2",
+    "river": "Colorado River",
+    "city": "Bastrop",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "DLRT2",
+    "river": "Rio Grande",
+    "city": "Del Rio",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "EPPT2",
+    "river": "Rio Grande",
+    "city": "Eagle Pass",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "GETT2",
+    "river": "San Gabriel River",
+    "city": "Georgetown",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "LGRT2",
+    "river": "Colorado River",
+    "city": "La Grange",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SEGT2",
+    "river": "Guadalupe River",
+    "city": "Seguin",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SELT2",
+    "river": "Cibolo Creek",
+    "city": "Selma",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SMIT2",
+    "river": "Colorado River",
+    "city": "Smithville",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "BAIN6",
+    "river": "Susquehanna River",
+    "city": "Bainbridge",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "BNGN6",
+    "river": "Susquehanna River",
+    "city": "Binghamton",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "CHEN6",
+    "river": "Chemung River",
+    "city": "Elmira",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "CKLN6",
+    "river": "Susquehanna River",
+    "city": "Conklin",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "CMGN6",
+    "river": "Chemung River",
+    "city": "Chemung",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "CNON6",
+    "river": "Chenango River",
+    "city": "Chenango Forks",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "CRNN6",
+    "river": "Chemung River",
+    "city": "Corning",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "DELN6",
+    "river": "West Branch Delaware River",
+    "city": "Delhi",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "ERWN6",
+    "river": "Tioga River",
+    "city": "Erwins",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "GNEN6",
+    "river": "Chenango River",
+    "city": "Greene",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "MTGN4",
+    "river": "Delaware River",
+    "city": "Montague",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "MTMP1",
+    "river": "Delaware River",
+    "city": "Matamoras",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "OWGN6",
+    "river": "Susquehanna River",
+    "city": "Owego",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "RCKN6",
+    "river": "Unadilla River",
+    "city": "Rockdale",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "UNDN6",
+    "river": "Susquehanna River",
+    "city": "Unadilla",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "VSTN6",
+    "river": "Susquehanna River",
+    "city": "Vestal",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "WBRP1",
+    "river": "Susquehanna River",
+    "city": "Wilkes Barre",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "WSRN6",
+    "river": "Susquehanna River",
+    "city": "Windsor",
+    "state": "NY"
+  },
+  {
+    "ahps_lid": "TODA1",
+    "river": "Black Warrior River",
+    "city": "Tuscaloosa",
+    "state": "AL"
+  },
+  {
+    "ahps_lid": "BIGI1",
+    "river": "Boise River",
+    "city": "Boise",
+    "state": "ID"
+  },
+  {
+    "ahps_lid": "EAGI1",
+    "river": "Boise River",
+    "city": "Eagle Island",
+    "state": "ID"
+  },
+  {
+    "ahps_lid": "CRAR1",
+    "river": "Pawtuxet River",
+    "city": "Cranston",
+    "state": "RI"
+  },
+  {
+    "ahps_lid": "WSTR1",
+    "river": "Pawcatuck River",
+    "city": "Westerly",
+    "state": "RI"
+  },
+  {
+    "ahps_lid": "RGDT2",
+    "river": "Rio Grande",
+    "city": "Rio Grande City",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "MONV1",
+    "river": "Winooski River",
+    "city": "Montpelier",
+    "state": "VT"
+  },
+  {
+    "ahps_lid": "WATV1",
+    "river": "Winooski River",
+    "city": "Waterbury",
+    "state": "VT"
+  },
+  {
+    "ahps_lid": "MCCO1",
+    "river": "Muskingum River",
+    "city": "McConnelsville",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "OTWI2",
+    "river": "Illinois River",
+    "city": "Ottawa",
+    "state": "IL"
+  },
+  {
+    "ahps_lid": "FDYO1",
+    "river": "Blanchard River",
+    "city": "Findlay",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "KILO1",
+    "river": "Killbuck Creek",
+    "city": "Killbuck",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "DUPT2",
+    "river": "Guadalupe River",
+    "city": "Bloomington",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "GLIT2",
+    "river": "San Antonio River",
+    "city": "Goliad",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "LDOT2",
+    "river": "Rio Grande",
+    "city": "Laredo",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "VICT2",
+    "river": "Guadalupe River",
+    "city": "Victoria",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "ALOI4",
+    "river": "Cedar River",
+    "city": "Waterloo",
+    "state": "IA"
+  },
+  {
+    "ahps_lid": "CEDI4",
+    "river": "Cedar River",
+    "city": "Cedar Falls",
+    "state": "IA"
+  },
+  {
+    "ahps_lid": "MCWI4",
+    "river": "Winnebago River",
+    "city": "Mason City",
+    "state": "IA"
+  },
+  {
+    "ahps_lid": "CART2",
+    "river": "Elm Fork Trinity River",
+    "city": "Carrollton",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "DALT2",
+    "river": "Trinity River",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "FWHT2",
+    "river": "Clear Fork Trinity River",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "FWOT2",
+    "river": "West Fork Trinity River",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "GROT2",
+    "river": "Paluxy River",
+    "city": "Glen Rose",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SGET2",
+    "river": "Clear Creek",
+    "city": "Sanger",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "WEAT2",
+    "river": "Clear Fork Trinity River",
+    "city": "Weatherford",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "BLTN7",
+    "river": "Swannanoa River",
+    "city": "Biltmore",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "GSLS1",
+    "river": "Saluda River",
+    "city": "Greenville",
+    "state": "SC"
+  },
+  {
+    "ahps_lid": "TKSN7",
+    "river": "Tuckasegee River",
+    "city": "Bryson City",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "BACT2",
+    "river": "Colorado River",
+    "city": "Bay City",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "BBST2",
+    "river": "Buffalo Bayou",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "CBST2",
+    "river": "Colorado River",
+    "city": "Columbus",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "GBHT2",
+    "river": "Greens Bayou",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "HGTT2",
+    "river": "White Oak Bayou",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "HMMT2",
+    "river": "West Fork San Jacinto River",
+    "city": "Humble",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "NCET2",
+    "river": "East Fork San Jacinto River",
+    "city": "New Caney",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "PPTT2",
+    "river": "Buffalo Bayou",
+    "city": "Piney Point Village",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SHLT2",
+    "river": "San Jacinto River",
+    "city": "Sheldon",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "SPNT2",
+    "river": "Spring Creek",
+    "city": "Spring",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "WHAT2",
+    "river": "Colorado River",
+    "city": "Wharton",
+    "state": "TX"
+  },
+  {
+    "ahps_lid": "DREI3",
+    "river": "Driftwood River",
+    "city": "Edinburgh",
+    "state": "IN"
+  },
+  {
+    "ahps_lid": "HUFI3",
+    "river": "Wabash River",
+    "city": "Terre Haute",
+    "state": "IN"
+  },
+  {
+    "ahps_lid": "NORI3",
+    "river": "White River",
+    "city": "Nora",
+    "state": "IN"
+  },
+  {
+    "ahps_lid": "HATM6",
+    "river": "Leaf River",
+    "city": "Hattiesburg",
+    "state": "MS"
+  },
+  {
+    "ahps_lid": "TREF1",
+    "river": "Santa Fe River",
+    "city": "Three Rivers Estates",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "MNDA2",
+    "river": "Mendenhall Lake",
+    "city": "Lake Level",
+    "state": "AK"
+  },
+  {
+    "ahps_lid": "VLSL1",
+    "river": "Vermilion River",
+    "city": "Lafayette",
+    "state": "LA"
+  },
+  {
+    "ahps_lid": "FFTK2",
+    "river": "Kentucky River",
+    "city": "Frankfort Lock",
+    "state": "KY"
+  },
+  {
+    "ahps_lid": "AFTW3",
+    "river": "Rock River",
+    "city": "Afton",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "BRGW3",
+    "river": "Fox River",
+    "city": "Burlington",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "CDRW3",
+    "river": "Cedar Creek",
+    "city": "Cedarburg",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "CEDW3",
+    "river": "Milwaukee River",
+    "city": "Cedarburg",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "FATW3",
+    "river": "Rock River",
+    "city": "Fort Atkinson",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "JFFW3",
+    "river": "Rock River",
+    "city": "Jefferson",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "NMSW3",
+    "river": "Fox River",
+    "city": "New Munster",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "NVLW3",
+    "river": "Rock River",
+    "city": "Lake Koshkonong",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "PORW3",
+    "river": "Wisconsin River",
+    "city": "Portage",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "WATW3",
+    "river": "Rock River",
+    "city": "Watertown",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "WKEW3",
+    "river": "Fox River",
+    "city": "Waukesha",
+    "state": "WI"
+  },
+  {
+    "ahps_lid": "CFMM8",
+    "river": "Flathead River",
+    "city": "Columbia Falls",
+    "state": "MT"
+  },
+  {
+    "ahps_lid": "CHIN7",
+    "river": "N.E. Cape Fear River",
+    "city": "Chinquapin",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "HOKN7",
+    "river": "Contentnea Creek",
+    "city": "Hookerton",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "KINN7",
+    "river": "Neuse River",
+    "city": "Kinston",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "PGVN7",
+    "river": "Tar River",
+    "city": "Greenville",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "WLLN7",
+    "river": "Roanoke River",
+    "city": "Williamston",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "OTTO1",
+    "river": "Blanchard River",
+    "city": "Ottawa",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "SASI3",
+    "river": "St. Marys River",
+    "city": "Fort Wayne",
+    "state": "IN"
+  },
+  {
+    "ahps_lid": "HLBK2",
+    "river": "South Fork Little River",
+    "city": "Hopkinsville",
+    "state": "KY"
+  },
+  {
+    "ahps_lid": "AUSG1",
+    "river": "Sweetwer Creek",
+    "city": "Austell",
+    "state": "GA"
+  },
+  {
+    "ahps_lid": "MACG1",
+    "river": "Ocmulgee River",
+    "city": "Macon",
+    "state": "GA"
+  },
+  {
+    "ahps_lid": "SWEG1",
+    "river": "Suwanee Creek",
+    "city": "Suwanee",
+    "state": "GA"
+  },
+  {
+    "ahps_lid": "VING1",
+    "river": "Chattahoochee River",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "ahps_lid": "BDKN4",
+    "river": "Raritan River",
+    "city": "Bound Brook",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "BKWN4",
+    "river": "Millstone River",
+    "city": "Blackwells Mills",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "BVDN4",
+    "river": "Delaware River",
+    "city": "Belvidere",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "CAMN4",
+    "river": "Passaic River",
+    "city": "Chatham",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "ESTN4",
+    "river": "Delaware River",
+    "city": "Easton",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "FREN4",
+    "river": "Delaware River",
+    "city": "Frenchtown",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "LTFN4",
+    "river": "Passaic River",
+    "city": "Little Falls",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "MCPN4",
+    "river": "Pequannock River",
+    "city": "Macopin",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "MILN4",
+    "river": "Passaic River",
+    "city": "Millington",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "MNVN4",
+    "river": "Raritan River",
+    "city": "Manville",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "NHPP1",
+    "river": "Delaware River",
+    "city": "New Hope",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "PINN4",
+    "river": "Passaic River",
+    "city": "Pine Brook",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "PPPN4",
+    "river": "Pompton River",
+    "city": "Pompton Plains",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "PPTN4",
+    "river": "Ramapo River",
+    "city": "Pompton Lakes",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "RGLN4",
+    "river": "Delaware River",
+    "city": "Riegelsville",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "SIGN4",
+    "river": "Passaic River",
+    "city": "Singac",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "STKN4",
+    "river": "Delaware River",
+    "city": "Stockton",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "TACN4",
+    "river": "Assunpink Creek",
+    "city": "Trenton",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "TREN4",
+    "river": "Delaware River",
+    "city": "Trenton",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "WNQN4",
+    "river": "Wanaque River",
+    "city": "Wanaque",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "ICLK1",
+    "river": "Indian Creek",
+    "city": "Leawood",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "LEVK1",
+    "river": "Missouri River",
+    "city": "Leavenworth",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "LKCM7",
+    "river": "Little Blue River",
+    "city": "Lake City",
+    "state": "MO"
+  },
+  {
+    "ahps_lid": "LRLM7",
+    "river": "Little Blue River",
+    "city": "Independence",
+    "state": "MO"
+  },
+  {
+    "ahps_lid": "OPDK1",
+    "river": "Indian Creek",
+    "city": "Overland Park",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "PKVM7",
+    "river": "Missouri River",
+    "city": "Parkville",
+    "state": "MO"
+  },
+  {
+    "ahps_lid": "TCRK1",
+    "river": "Tomahawk Creek",
+    "city": "Leawood",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "CIDI4",
+    "river": "Cedar River",
+    "city": "Cedar Rapids",
+    "state": "IA"
+  },
+  {
+    "ahps_lid": "FEEI2",
+    "river": "Peconica River",
+    "city": "Freeport",
+    "state": "IL"
+  },
+  {
+    "ahps_lid": "IOWI4",
+    "river": "Iowa River",
+    "city": "Iowa City",
+    "state": "IA"
+  },
+  {
+    "ahps_lid": "BYNN7",
+    "river": "Haw River",
+    "city": "Bynum",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "CLYN7",
+    "river": "Neuse River",
+    "city": "Clayton",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "EFDN7",
+    "river": "Fishing Creek",
+    "city": "Enfield",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "GLDN7",
+    "river": "Neuse River",
+    "city": "Goldsboro",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "HAWN7",
+    "river": "Haw River",
+    "city": "Haw River",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "LOUN7",
+    "river": "Tar River",
+    "city": "Louisburg",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "MANN7",
+    "river": "Little River",
+    "city": "Manchester",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "SMFN7",
+    "river": "Neuse River",
+    "city": "Smithfield",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "TARN7",
+    "river": "Tar River",
+    "city": "Tarboro",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "TRVN7",
+    "river": "Tar River",
+    "city": "Tar River",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "STWN2",
+    "river": "Carson River",
+    "city": "Carson City",
+    "state": "NV"
+  },
+  {
+    "ahps_lid": "CENW1",
+    "river": "Chehalis River",
+    "city": "Centralia",
+    "state": "WA"
+  },
+  {
+    "ahps_lid": "LPTL1",
+    "river": "Sabine River",
+    "city": "Logansport",
+    "state": "LA"
+  },
+  {
+    "ahps_lid": "MLUL1",
+    "river": "Ouachita River",
+    "city": "Monroe",
+    "state": "LA"
+  },
+  {
+    "ahps_lid": "RBXM7",
+    "river": "Roubidoux Creek",
+    "city": "Waynesville",
+    "state": "MO"
+  },
+  {
+    "ahps_lid": "BMBP1",
+    "river": "Susquehanna River",
+    "city": "Bloomsburg",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "DANP1",
+    "river": "Susquehanna River",
+    "city": "Danville",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "HARP1",
+    "river": "Susquehanna River",
+    "city": "Harrisburg",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "HERP1",
+    "river": "Swatara Creek",
+    "city": "Hershey",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "HTVP1",
+    "river": "Swatara Creek",
+    "city": "Harper Tavern",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "JRSP1",
+    "river": "West Branch Susquehanna River",
+    "city": "Jersey Shore",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "MTLP1",
+    "river": "Swatara Creek",
+    "city": "Middletown",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "SBYP1",
+    "river": "Susquehanna River",
+    "city": "Sunbury",
+    "state": "PA"
+  },
+  {
+    "ahps_lid": "ABNG1",
+    "river": "Flint River",
+    "city": "Albany",
+    "state": "GA"
+  },
+  {
+    "ahps_lid": "BFDF1",
+    "river": "Suwannee River",
+    "city": "Branford",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "BLOF1",
+    "river": "Apalachicola River",
+    "city": "Blountstown",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "DOUF1",
+    "river": "Suwannee River",
+    "city": "Dowling Park",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "ELLF1",
+    "river": "Suwannee River",
+    "city": "Ellaville",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "LURF1",
+    "river": "Suwannee River",
+    "city": "Luraville",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "BARF1",
+    "river": "Peace River",
+    "city": "Bartow",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "HLDF1",
+    "river": "Withlacoochee River",
+    "city": "Holder",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "LITF1",
+    "river": "Alafia River",
+    "city": "Lithia",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "TRBF1",
+    "river": "Withlacoochee River",
+    "city": "Trilby",
+    "state": "FL"
+  },
+  {
+    "ahps_lid": "MNTK1",
+    "river": "Big Blue River",
+    "city": "Manhattan",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "MWCK1",
+    "river": "Wildcat Creek",
+    "city": "Manhattan",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "OTWK1",
+    "river": "Marais Des Cygnes River",
+    "city": "Ottawa",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "RSSK1",
+    "river": "Cross Creek",
+    "city": "Rossville",
+    "state": "KS"
+  },
+  {
+    "ahps_lid": "STPM5",
+    "river": "Mississippi River",
+    "city": "St. Paul",
+    "state": "MN"
+  },
+  {
+    "ahps_lid": "DDCN4",
+    "river": "Passaic River",
+    "city": "Clifton",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "HOHN4",
+    "river": "Hohokus Brook",
+    "city": "Ho-Ho-Kus",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "LODN4",
+    "river": "Saddle River",
+    "city": "Lodi",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "MAWN4",
+    "river": "Ramapo River",
+    "city": "Mahwah",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "NMLN4",
+    "river": "Hackensack River",
+    "city": "New Milford",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "PKRN4",
+    "river": "Pascack River",
+    "city": "Park Ridge",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "RIVN4",
+    "river": "Hackensack River",
+    "city": "Rivervale",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "RWDN4",
+    "river": "Saddle River",
+    "city": "Ridgewood",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "SADN4",
+    "river": "Saddle River",
+    "city": "Upper Saddle River",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "SPGN4",
+    "river": "Rahway River",
+    "city": "Springfield",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "VRON4",
+    "river": "Peckman River",
+    "city": "Verona",
+    "state": "NJ"
+  },
+  {
+    "ahps_lid": "FKLV2",
+    "river": "Blackwater River",
+    "city": "Franklin",
+    "state": "VA"
+  },
+  {
+    "ahps_lid": "BGWN7",
+    "river": "N.E. Cape Fear River",
+    "city": "Burgaw",
+    "state": "NC"
+  },
+  {
+    "ahps_lid": "BEEO1",
+    "river": "South Fork Licking River",
+    "city": "Hebron",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "GRNO1",
+    "river": "Raccoon Creek",
+    "city": "Granville",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "NEAO1",
+    "river": "Licking River",
+    "city": "Newark",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "NMSO1",
+    "river": "North Fork Licking River",
+    "city": "Newark",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "RCNO1",
+    "river": "Raccoon Creek",
+    "city": "Newark",
+    "state": "OH"
+  },
+  {
+    "ahps_lid": "SFHO1",
+    "river": "South Fork Licking River",
+    "city": "Heath",
+    "state": "OH"
+  }
+]
